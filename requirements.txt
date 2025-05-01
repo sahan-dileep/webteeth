@@ -1,3 +1,4 @@
 ultralytics~=8.3.122
 flask~=3.0.3
 opencv-python
+gunicorn==20.1.0
