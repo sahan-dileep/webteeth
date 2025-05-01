@@ -1,4 +1,3 @@
-Flask==2.3.2
-numpy
-ultralytics==8.0.0
-opencv-python==4.7.0.72
+ultralytics
+flask
+opencv-python
